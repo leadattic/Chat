@@ -1,3 +1,4 @@
+<small style="color:red;">Note: it is not at all a priority to develop and maintain this project to me</small>
 # Chat
 Chatting platform
 
